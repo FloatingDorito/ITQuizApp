@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201359118995",
+    "project_id": "itquizapp-bc3c7",
+    "storage_bucket": "itquizapp-bc3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201359118995:android:164b0d686fb8e1352df366",
+        "android_client_info": {
+          "package_name": "student.inti.itquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201359118995-d3h19i6o2dl044riohkvkh0vjiv4c7sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1YSVwiy4eh-YT7nPdKTZbbQZUYrLLVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201359118995-d3h19i6o2dl044riohkvkh0vjiv4c7sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
